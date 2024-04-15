@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to prosper in Tech field
 - 📫 How to reach me https://wa.link/samwu9
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am tall, black and handsome.
 
 <!---
